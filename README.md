@@ -1,1 +1,1 @@
-# red-moon-novel
+# red-moon-visual-novel
